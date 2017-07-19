@@ -1,0 +1,22 @@
+{
+  "name": "open-all",
+  "main": "./lib/open-all",
+  "version": "0.0.0",
+  "description": "Open all files in a directory from the tree view.",
+  "keywords": [
+    "atom",
+    "tree-view"
+  ],
+  "activationCommands": {
+    "atom-workspace": "open-all:open"
+  },
+  "repository": "https://github.com/goronfreeman/open-all",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-plus": "^3.0.1",
+    "glob": "^7.1.2"
+  }
+}

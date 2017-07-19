@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".tree-view .full-menu [is='tree-view-directory']": [
+      {
+        "label": "Open All Files",
+        "command": "open-all:open"
+      }
+    ]
+  }
+}
