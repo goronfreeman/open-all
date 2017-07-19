@@ -1,3 +1,6 @@
+## 0.3.0
+* (New) Added an option to open dotfiles (off by default)
+
 ## 0.2.0
 * (New) Added an option to turn off subdirectory search (off by default)
 * (New) Added an option to ignore VCS ignored paths (on by default)
