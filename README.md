@@ -10,6 +10,12 @@ Open all files in a directory from the tree view.
 
 ## Configuration Options
 
+### Include Dotfiles
+
+Open files beginning with a `.`.
+
+Defaults to `false`.
+
 ### Search Within Subdirectories
 
 Open all files within all subdirectories of the selected directory.
